@@ -1,4 +1,4 @@
-### Selam 👋
+### Selam = #zaa
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/amahocam/amahocam)](https://github.com/amahocam)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/mutsuz_panda)](https://t.me/mutsuz_panda)
