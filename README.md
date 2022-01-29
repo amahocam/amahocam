@@ -5,7 +5,7 @@
 [![İnstagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-quare&labelColor=dark_red&logo=Instagram&logoColor=dark_red&link=https://instagram.com/ama_hocaam?utm_medium=copy_link)](https://instagram.com/ama_hocaam?utm_medium=copy_link)
 
 <a href="https://github.com/amahocam/amahocam">
-  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
+  <img align="right" src="https://te.legra.ph/file/3113cf78651d63174ec48.png" width=200 />
 </a>
 
 <details>
