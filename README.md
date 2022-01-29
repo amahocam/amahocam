@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/amahocam/amahocam)](https://github.com/amahocam)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/mutsuz_panda)](https://t.me/mutsuz_panda)
-[![İnstagram Badge](https://img.shields.io/badge/-%C4%B0nstagram%C4%B1m-red?style=flat-quare&labelColor=dark_red&logo=%C4%B0nstagram&logoColor=black&link=https://instagram.com/ama_hocaam?utm_medium=copy_link)](https://instagram.com/ama_hocaam?utm_medium=copy_link)
+[![İnstagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-quare&labelColor=dark_red&logo=Instagram&logoColor=dark_red&link=https://instagram.com/ama_hocaam?utm_medium=copy_link)](https://instagram.com/ama_hocaam?utm_medium=copy_link)
 
 <a href="https://github.com/amahocam/amahocam">
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
